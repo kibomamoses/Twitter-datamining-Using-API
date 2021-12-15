@@ -43,3 +43,41 @@ i found out that elon musk has the highest number of followers followed by Bill 
 When i analysed how many they tweeted i realised Hillary clinton was leading followed by bill gates
 
 My assumption was Elon Musk is more popular That Bill Gates and Hillary Clinton
+# PART 2:NETWORK ANALYSIS
+
+In this task i performed network analysis of my three influencers i.e Bill Gates,Elon Musk and Hillary clinton
+
+First i had to find a number of their friends in this case i only printed 10 as inqured that i hade to used 10 for both
+
+Then i used networkX to graphically represent my data which i mannually reprented
+
+After calculating the statistics of my influencers my results were
+
+## Bill Gates
+▪ Degree Distribution=9
+
+▪ Cluster coefficient=0
+
+▪ Betweenness Centrality=1.0
+
+▪ Assortativity=0.7071074555358021
+
+## Hillary clinton
+▪ Degree Distribution=8
+
+▪ Cluster coefficient=0
+
+▪ Betweenness Centrality=0.01818181818181818
+
+▪ Assortativity= 0.7071067744546117
+
+# LESSONS LEARNED
+I learned how to used networkx to represent a particular network
+
+I learned that Network analysis is an imporntant practice where it make me understand relationshis i.e Node and Edge ,parent and child
+
+I learned that network analysis easly makes know how much an influencer is populer
+
+I learned that We can also visualize the network such that the node color varies with Degree and node size with Betweenness Centrality
+
+I learned that The Betweenness Centrality is the centrality of control. It represents the frequency at which a point occurs on the geodesic (shortest paths) that connected pair of points. It quantifies how many times a particular node comes in the shortest chosen path between two other nodes
