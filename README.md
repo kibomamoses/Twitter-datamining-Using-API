@@ -5,7 +5,7 @@ i cleaned the data and saved it in a CSV file
 I analysed diffrent twittwer accounts to get total number of tweets and retweets,number of follwers number of friends
 names of followers and friens
 # EXPLANTION OF THE PROCESS, THE JUSTFACTION BEHIND IT, LESSONS LEARNED AND FINDING
-EXPLANATION OF PROCESS
+
 First step i installed tweepy and imported to my .ipynb file
 
 Then i connected to My twiiter api using my consumer and access token keys
